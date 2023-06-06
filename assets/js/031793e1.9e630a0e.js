@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwanderers_quill_temp=self.webpackChunkwanderers_quill_temp||[]).push([[1633],{2511:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/blog/tags/facebook","allTagsPath":"/blog/tags","count":1}')}}]);
